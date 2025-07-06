@@ -1,0 +1,10 @@
+// Test for the http verbs
+
+GET http://localhost:3000
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+
+{
+    "name": "erectile disfunction"
+}
