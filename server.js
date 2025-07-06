@@ -11,6 +11,7 @@ app.use(express.json());
 //Date for the data example
 
 
+
 let data = {
     name: "James",
     age: 25
